@@ -13,6 +13,3 @@
 
 
 ### 三、目录
-
-[栈]: https://github.com/CN-xiaoxiao/CodesOFDataStructure/tree/main/C%20and%20C%2B%2B/%E6%A0%88	"栈，包括顺序栈和链栈"
-
