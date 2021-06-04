@@ -13,3 +13,19 @@
 
 
 ### 三、目录
+
+现已经更新：
+
+[单链表的基础操作](https://github.com/CN-xiaoxiao/CodesOFDataStructure/tree/main/C and C%2B%2B/链表/单链表)
+
+[链栈](https://github.com/CN-xiaoxiao/CodesOFDataStructure/tree/main/C and C%2B%2B/栈/链栈)
+
+[顺序栈](https://github.com/CN-xiaoxiao/CodesOFDataStructure/tree/main/C and C%2B%2B/栈/顺序栈)
+
+[循环队列](https://github.com/CN-xiaoxiao/CodesOFDataStructure/tree/main/C and C%2B%2B/队列/循环队列)
+
+[链队](https://github.com/CN-xiaoxiao/CodesOFDataStructure/tree/main/C and C%2B%2B/队列/链队)
+
+[串的模式匹配之BF算法](https://github.com/CN-xiaoxiao/CodesOFDataStructure/tree/main/C and C%2B%2B/串/BF算法)
+
+[冒泡排序](https://github.com/CN-xiaoxiao/CodesOFDataStructure/tree/main/C and C%2B%2B/排序/冒泡排序)
