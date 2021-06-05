@@ -14,7 +14,9 @@
 
 ### 三、目录
 
-现已经更新：
+现已经更新 ：
+
+#### 1、C/C++：
 
 [单链表的基础操作](https://github.com/CN-xiaoxiao/CodesOFDataStructure/tree/main/C-and-C%2B%2B/链表/单链表)
 
@@ -26,6 +28,9 @@
 
 [链队](https://github.com/CN-xiaoxiao/CodesOFDataStructure/tree/main/C-and-C%2B%2B/队列/链队)
 
-[串的模式匹配之BF算法](https://github.com/CN-xiaoxiao/CodesOFDataStructure/tree/main/C-and-C%2B%2B/串/BF算法)
+[字符串匹配的朴素实现](https://github.com/CN-xiaoxiao/CodesOFDataStructure/tree/main/C and C%2B%2B/串/字符串匹配的朴素实现)
+
+[二叉树的创建和遍历以及基本操作](https://github.com/CN-xiaoxiao/CodesOFDataStructure/tree/main/C and C%2B%2B/树/二叉树的创建和遍历以及基本操作)
 
 [冒泡排序](https://github.com/CN-xiaoxiao/CodesOFDataStructure/tree/main/C-and-C%2B%2B/排序/冒泡排序)
+
